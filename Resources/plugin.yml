@@ -1,0 +1,36 @@
+name: ZQWorldProtection
+main: cn.yzq25.worldprotection.WorldProtectionMain
+version: "2.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+
+
+author: Yanziqing25
+description: 一个简单的世界保护插件
+website: http://www.mcel.cn
+
+permissions:
+ worldprotection:
+  children:
+   worldprotection.command:
+    children:
+     worldprotection.command.reload:
+      default: op
+     worldprotection.command.language:
+      default: op
+     worldprotection.command.world:
+      children:
+       worldprotection.command.world.add:
+        default: op
+       worldprotection.command.world.remove:
+        default: op
+       worldprotection.command.world.list:
+        default: true
+      worldprotection.command.admin:
+       children:
+        worldprotection.command.admin.add:
+         default: op
+        worldprotection.command.admin.remove:
+         default: op
+        worldprotection.command.admin.list:
+         default: true

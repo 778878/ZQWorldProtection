@@ -1,0 +1,6 @@
+#only "eng" or "chs".
+language: eng
+checkupdate: true
+opcanblockbreak: false
+admin: []
+world: []

@@ -1,0 +1,24 @@
+{
+  "language": "eng",
+  "add_world_successful": "Add world successful ",
+  "add_world_failure": "Failure to add world ",
+  "remove_world_successful": "Remove world successful ",
+  "remove_world_failure": "Failure to remove world ",
+  "add_admin_successful": "Add admin successful ",
+  "add_admin_failure": "Failure to add admin ",
+  "remove_admin_successful": "Remove admin successful ",
+  "remove_admin_failure": "Failure to remove admin ",
+  "player_break_world": "This world has been already protected ",
+  "language_change_notice": " It's already this language,Not necessary replace!",
+  "language_change_successful": "language changed successful!",
+  "config_reload": "Config was reloaded!",
+  "protected_world": "were protected world.",
+  "world_admin": "were world admin.",
+  "player_no_permission": "You don't have permission to use this command.",
+
+  "update_failure": "Check update failed : connection ZQWorldProtest server failed! The reason for the error:",
+  "has_update": " Has updated! The latest version is ",
+  "latest": " For the latest version! The version is ",
+  "check_safety_failure": " is breakdown!"
+
+}

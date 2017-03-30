@@ -1,0 +1,24 @@
+{
+  "language": "chs",
+  "add_world_successful": "成功添加世界 ",
+  "add_world_failure": "添加世界失败 ",
+  "remove_world_successful": "成功移除世界 ",
+  "remove_world_failure": "移除世界失败 ",
+  "add_admin_successful": "成功添加世界管理员 ",
+  "add_admin_failure": "添加管理员失败 ",
+  "remove_admin_successful": "成功移除世界管理员 ",
+  "remove_admin_failure": "移除世界管理员失败 ",
+  "player_break_world": "该世界已被保护!",
+  "language_change_notice": "已是当前语言，无需切换!",
+  "language_change_successful": "语言切换成功!",
+  "config_reload": "配置文件已保存!",
+  "protected_world": "已被保护",
+  "world_admin": "是世界管理员",
+  "player_no_permission": "您没有使用此命令的权限!",
+
+  "update_failure": "更新检测失败:连接ZQWorldProtect服务器失败!错误原因:",
+  "has_update": "有更新!最新版本为",
+  "latest": "为最新版本!版本号",
+  "check_safety_failure": "被恶意修改!"
+
+}
