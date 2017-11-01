@@ -1,0 +1,24 @@
+{
+  "language": "zho",
+  "add_world_successful": "成功增加世界 ",
+  "add_world_failure": "增加世界失敗 ",
+  "remove_world_successful": "成功移除世界 ",
+  "remove_world_failure": "移除世界失敗 ",
+  "add_admin_successful": "成功增加世界管理員 ",
+  "add_admin_failure": "增加管理員失敗 ",
+  "remove_admin_successful": "成功移除世界管理員 ",
+  "remove_admin_failure": "移除世界管理員失敗 ",
+  "player_break_world": "該世界已被保護!",
+  "language_change_notice": "已是目前語言，無需切換!",
+  "language_change_successful": "語言切換成功!",
+  "config_reload": "設定檔已儲存!",
+  "protected_world": "已被保護",
+  "world_admin": "是世界管理員",
+  "player_no_permission": "您沒有使用此命令的許可權!",
+
+  "update_failure": "更新檢測失敗:連接ZQWorldProtect伺服器失敗!錯誤原因:",
+  "has_update": "有更新!最新版本為",
+  "latest": "為最新版本!版本號",
+  "check_safety_failure": "被惡意修改!"
+
+}
