@@ -1,4 +1,4 @@
-#only "eng" or "chs".
+#only "eng","chs","zho".
 language: eng
 checkupdate: true
 opcanblockbreak: false
